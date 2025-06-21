@@ -1,2 +1,3 @@
 # Journey-in-coding
-This is my git-repository
+This is my first Git-Repository.
+Author:-Roshan Dubey
